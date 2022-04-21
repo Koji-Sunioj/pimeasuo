@@ -1,3 +1,5 @@
+- hello. this small project was me practicing some react concepts, including parsing data, mapping it to elements, query based pages and routes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
